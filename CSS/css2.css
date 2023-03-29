@@ -1,0 +1,85 @@
+@font-face {font-family:MyCond;
+    src: url(../Fonte/MYRIADPRO-COND.OTF);}
+    @font-face {font-family:REGU;
+        src: url(../Fonte/MYRIADPRO-REGULAR.OTF);}
+        @font-face {
+            font-family:atenção ;
+            src: url(../Fonte/aBlackLives.ttf);
+        }
+
+    footer {background-color: black;}
+    
+
+footer .you img {width: 40px;}
+
+footer .insta img {width: 30px;
+background-color: #f3f3f3;
+border-radius: 9px;}
+
+footer .gmail img {width: 39px;}
+
+footer h4{position: relative;
+left: 800px;
+padding-left: 40px;
+font-size: 25px;}
+
+footer a {position: relative;
+right: -847px;}
+
+nav a {position: relative;
+left: 700px;
+padding-left: 40px;
+font-family: REGU;
+font-size: 30px;
+color: azure;
+text-decoration: none;}
+
+body {background-color: #ffffff;}
+
+head {background-color: black;}
+
+
+
+.alerta {width: 400px;
+position: relative;
+bottom: 205px;}
+
+p{text-align: justify;
+font-family: MyCond;
+width: 800px;
+font-size: 20px;}
+
+.merchan{position: relative;
+bottom: 30px;
+font-size: 20px;}
+
+h1{font-family: atenção;
+position: relative;
+bottom: 50px;
+font-size: 50px;
+color: #d40a0a;}
+
+h3{font-family: atenção;
+color: #000000;
+bottom: 2000px;}
+
+.contatos{color: #d40a0a;
+    position: absolute;
+bottom: 133px;
+left: 145px;}
+
+h4{font-family: atenção;
+position: absolute;
+bottom: -15px;}
+
+.logosite{width: 400px;
+position: relative;
+bottom: 72px;
+left: 60px;}
+
+.Eu{width: 650px;
+position: absolute;
+bottom: 70px;
+left: 1100px;}
+
+.header{background: #000000;}

@@ -1,0 +1,256 @@
+@font-face {font-family:MyCond;
+    src: url(../Fonte/MYRIADPRO-COND.OTF);}
+    @font-face {font-family:REGU;
+        src: url(../Fonte/MYRIADPRO-REGULAR.OTF);}
+        @font-face {
+            font-family:atenção ;
+            src: url(../Fonte/aBlackLives.ttf);
+        }
+
+    footer {background-color: black;
+    position: fixed;width: 100%;bottom: 0px;
+    padding-top: 0px;
+    }
+    
+
+footer .you img {width: 40px;}
+
+footer .insta img {width: 30px;
+background-color: #f3f3f3;
+border-radius: 9px;}
+
+footer .gmail img {width: 39px;}
+
+footer h4{position: relative;
+left: 800px;
+padding-left: 40px;
+font-size: 25px;}
+
+footer a {position: relative;
+right: -845px;}
+
+nav a {position: relative;
+left: 530px;
+padding-left: 40px;
+font-family: REGU;
+font-size: 25px;
+color: azure;
+text-decoration: none;}
+
+body {background-color: #ffffff;}
+
+head {background-color: black;}
+
+.header {background-color: #000000;
+         padding: 20px;}
+
+.alerta {width: 400px;
+position: relative;
+bottom: 205px;}
+
+p{text-align: justify;
+font-family: MyCond;
+width: 800px;
+font-size: 20px;}
+
+.merchan{position: relative;
+bottom: 30px;
+font-size: 20px;}
+
+h1{font-family: atenção;
+position: relative;
+left: 185px;
+bottom: 50px;
+font-size: 50px;
+color: #d40a0a;}
+
+h3{font-family: atenção;
+color: #000000;
+top: 2000px;}
+
+.contatos{color: #d40a0a;
+    position: absolute;
+top: 763px;
+left: 145px;}
+
+h4{font-family: atenção;
+position: relative;
+bottom: -15px;
+left: 150px;}
+
+.logosite{width: 400px;
+position: relative;
+bottom: 72px;
+left: 60px;}
+
+.Eu{width: 650px;
+position: absolute;
+top: 150px;
+left: 922px;}
+
+.botaoquemsoueu{transition: all 0.2s;cursor: pointer;}
+.botaoquemsoueu:hover{background-color: rgb(190, 10, 10);
+border-radius: 20px;
+padding: 7px;
+color: #d9d3c3;}
+
+.botaoprimeiro{transition: all 0.2s;cursor: pointer;}
+.botaoprimeiro:hover{background-color: rgb(190, 10, 10);
+border-radius: 20px;
+padding: 7px;
+color: #d9d3c3;}
+
+.botaosegundo{transition: all 0.2s;cursor: pointer;}
+.botaosegundo:hover{background-color: rgb(190, 10, 10);
+border-radius: 20px;
+padding: 7px;
+color: #d9d3c3;}
+
+.botaoterceiro{transition: all 0.2s;cursor: pointer;}
+.botaoterceiro:hover{background-color: #be0a0a;
+border-radius: 20px;
+padding: 7px;
+color: #d9d3c3;}
+
+
+.Eu{transition: all 0.5s ;}
+.Eu:hover{filter: drop-shadow(25px 25px 25px #000000);}
+
+.manchester{transition: all 5s;} 
+.manchester:hover{transform: scale(1.1);}
+
+.fotografia{transition: all 5s;} 
+.fotografia:hover{transform: scale(1.1);}
+
+.cha{transition: all 5s;} 
+.cha:hover{transform: scale(1.1);}
+
+.abacaxi{transition: initial 5s; transition: unset 1s;} 
+.abacaxi:hover{transform: scale(1.1);}
+
+
+
+
+
+.segundo{font-family: MyCond;
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+    width: 1400px;
+    top: 10px;
+    left: 50px;}
+
+
+
+.manchester{width:500px;
+    position: relative;
+top: -30px;
+left: 40px;}
+
+h6{font-family: atenção;
+    position: relative;
+   top: 150px;
+    left: 150px;
+    font-size: 50px;
+    color: #d40a0a;}
+
+.tman{background-color: #000000;
+        color: #ffffff;
+        text-align: center;
+        width: 460px;
+        position: relative;
+        top: -100px;
+        left: 50px;
+        font-family: MyCond;
+        font-size: 40px;
+        padding: 10px;}
+
+    .logosite1{width: 400px;
+        position: absolute;
+        top: 3px;
+        left: 60px;}
+
+    h7{font-family: atenção;
+    position: absolute;
+    top: 345px;
+    left: 880px;
+    font-size: 50px;
+    color: #d40a0a;}
+
+.foto{background-color: #000000;
+        color: #ffffff;
+        text-align: center;
+        width: 460px;
+        position: relative;
+        top: -550px;
+        left: 890px;
+        font-family: MyCond;
+        font-size: 40px;
+        padding: 5px;}
+
+        
+.fotografia{width:750px;
+    position: relative;
+    top: -150px;
+    left: 250px;}
+
+.primeiro{font-family: MyCond;
+        position: relative;
+        font-size: 30px;
+        text-align: center;
+        width: 1400px;
+        top: -200px;
+        left: 50px;}
+
+
+        .mp4{position: relative;
+        left: -100px;
+    width: 100px;}
+
+    .thumb{width: 1000px;
+        position: relative;
+        top: 200px;
+    left: 10px;}
+
+    .botao1{position: relative;
+    bottom: 100px;}
+    
+    .cha{width: 600px;
+    position: relative;
+top: 100px;}
+
+    .videoleg{}
+
+
+    .abacaxi{width: 1000px;
+    position: relative;
+top: -100px;}
+ 
+.abacaxit{position: absolute;
+top: 260px;}
+
+.ideias{position: absolute;
+top: 140px;}
+
+.abacatexto{background-color: #000000;
+    color: #ffffff;
+    text-align: left;
+    width: 1000px;
+    position: relative;
+    top: -38px;
+    left: 300px;
+    font-family: MyCond;
+    font-size: 40px;
+    padding: 10px;
+    padding-left: 50px;padding-right: 10px;}
+
+    .terceiro{font-family: MyCond;
+        position: relative;
+        font-size: 30px;
+        text-align: center;
+        width: 1400px;
+        top: -200px;
+        left: 50px;}
+
+        .atensi{position: relative;
+            left: 500px;}
